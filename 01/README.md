@@ -59,7 +59,7 @@ I completed this project by following these steps:
 
 Here's a preview of the running project:
 
-![Streamlit Screenshot](StreamLit_01.png)
+![Streamlit Screenshot](streamlit_01/StreamLit_01.png)
 
 ---
 
